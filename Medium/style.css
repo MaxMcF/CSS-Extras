@@ -1,0 +1,41 @@
+.searchBox{
+  display: inline-block;
+  position: relative;
+  right: -800px;
+
+}
+.headLine{
+  display:inline-block;
+}
+.webSiteTitle {
+  display:inline-block
+
+}
+.title {
+  display: inline;
+}
+#signIn {
+  display: inline;
+}
+.navBar{
+  display:inline;
+  width: auto;
+  padding: 10px;
+}
+.navDiv{
+  border-top: 1px solid black;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.largePicture {
+  background-image: url(http://via.placeholder.com/900x466);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  position: absolute;
+
+}
+.smallArt{
+  position: relative;
+  display: inline-block;
+  border-width: 50%;
+}
